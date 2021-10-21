@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/1101-208418037-CrownthemeReact/static/css/main.409cd7b1.chunk.css",
-    "main.js": "/1101-208418037-CrownthemeReact/static/js/main.3cad2103.chunk.js",
-    "main.js.map": "/1101-208418037-CrownthemeReact/static/js/main.3cad2103.chunk.js.map",
-    "runtime-main.js": "/1101-208418037-CrownthemeReact/static/js/runtime-main.60989e90.js",
-    "runtime-main.js.map": "/1101-208418037-CrownthemeReact/static/js/runtime-main.60989e90.js.map",
-    "static/js/2.382f22ae.chunk.js": "/1101-208418037-CrownthemeReact/static/js/2.382f22ae.chunk.js",
-    "static/js/2.382f22ae.chunk.js.map": "/1101-208418037-CrownthemeReact/static/js/2.382f22ae.chunk.js.map",
-    "static/js/3.62218d8e.chunk.js": "/1101-208418037-CrownthemeReact/static/js/3.62218d8e.chunk.js",
-    "static/js/3.62218d8e.chunk.js.map": "/1101-208418037-CrownthemeReact/static/js/3.62218d8e.chunk.js.map",
+    "main.css": "/1101-208418037-CrownthemeReact/static/css/main.41dd881d.chunk.css",
+    "main.js": "/1101-208418037-CrownthemeReact/static/js/main.035291f8.chunk.js",
+    "main.js.map": "/1101-208418037-CrownthemeReact/static/js/main.035291f8.chunk.js.map",
+    "runtime-main.js": "/1101-208418037-CrownthemeReact/static/js/runtime-main.000decc2.js",
+    "runtime-main.js.map": "/1101-208418037-CrownthemeReact/static/js/runtime-main.000decc2.js.map",
+    "static/js/2.2468a34e.chunk.js": "/1101-208418037-CrownthemeReact/static/js/2.2468a34e.chunk.js",
+    "static/js/2.2468a34e.chunk.js.map": "/1101-208418037-CrownthemeReact/static/js/2.2468a34e.chunk.js.map",
+    "static/js/3.92ddac4e.chunk.js": "/1101-208418037-CrownthemeReact/static/js/3.92ddac4e.chunk.js",
+    "static/js/3.92ddac4e.chunk.js.map": "/1101-208418037-CrownthemeReact/static/js/3.92ddac4e.chunk.js.map",
     "index.html": "/1101-208418037-CrownthemeReact/index.html",
-    "static/css/main.409cd7b1.chunk.css.map": "/1101-208418037-CrownthemeReact/static/css/main.409cd7b1.chunk.css.map",
-    "static/js/2.382f22ae.chunk.js.LICENSE.txt": "/1101-208418037-CrownthemeReact/static/js/2.382f22ae.chunk.js.LICENSE.txt"
+    "static/css/main.41dd881d.chunk.css.map": "/1101-208418037-CrownthemeReact/static/css/main.41dd881d.chunk.css.map",
+    "static/js/2.2468a34e.chunk.js.LICENSE.txt": "/1101-208418037-CrownthemeReact/static/js/2.2468a34e.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/1101-208418037-CrownthemeReact/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.60989e90.js",
-    "static/js/2.382f22ae.chunk.js",
-    "static/css/main.409cd7b1.chunk.css",
-    "static/js/main.3cad2103.chunk.js"
+    "static/js/runtime-main.000decc2.js",
+    "static/js/2.2468a34e.chunk.js",
+    "static/css/main.41dd881d.chunk.css",
+    "static/js/main.035291f8.chunk.js"
   ]
 }
